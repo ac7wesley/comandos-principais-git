@@ -153,8 +153,8 @@ git rebase main
 
 ## Me Siga nas Redes Sociais!
 
-[![Twitter](https://gsales.io/social-media-icons/twitter.png)](https://twitter.com/guscsales)
-[![Instagram](https://gsales.io/social-media-icons/instagram.png)](https://www.instagram.com/guscsales/)
-[![YouTube](https://gsales.io/social-media-icons/youtube.png)](https://canal.gsales.io)
-[![LinkedIn](https://gsales.io/social-media-icons/linkedin.png)](https://www.linkedin.com/in/gsaless/)
-[![Personal Website](https://gsales.io/social-media-icons/site.png)](https://gsales.io)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guscsales)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guscsales/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://canal.gsales.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsaless/)
+[![Personal Website](https://img.shields.io/badge/gsales.io-100000?style=for-the-badge&logo=hashnode&logoColor=white)](https://gsales.io)
